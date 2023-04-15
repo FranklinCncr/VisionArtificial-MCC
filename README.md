@@ -7,14 +7,14 @@
 - Tapara Quispe, Jhoel Salomon
 
 ## Enlaces Colab
-- [Colab de Franklin](https://)
+- [Colab de Franklin](https://drive.google.com/drive/folders/1IqMnKpqWROXIzsBp8nFiTILO8vYfASfZ?usp=sharing)
 - [Colab de Jair](https://)
 - [Colab de Hayde](https://)
 - [Colab de Jhoel](https://)
 
 ## EJERCICIOS
-1. Crear una función Ecualización del Histograma
-2. Operaciones Aritméticas
-3. Convolución - Extremos Cero
-4. Filtro de la Mediana - Filtro no lineales
-5. Zoom con Interpolación Bilineal
+- 1. Crear una función Ecualización del Histograma
+- 2. Operaciones Aritméticas
+- 3. Convolución - Extremos Cero
+- 4. Filtro de la Mediana - Filtro no lineales
+- 5. Zoom con Interpolación Bilineal
